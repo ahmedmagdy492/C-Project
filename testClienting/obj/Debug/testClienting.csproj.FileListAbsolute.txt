@@ -1,0 +1,6 @@
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testClienting\bin\Debug\testClienting.exe.config
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testClienting\bin\Debug\testClienting.exe
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testClienting\bin\Debug\testClienting.pdb
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testClienting\obj\Debug\testClienting.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testClienting\obj\Debug\testClienting.exe
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testClienting\obj\Debug\testClienting.pdb

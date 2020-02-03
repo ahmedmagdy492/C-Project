@@ -1,0 +1,9 @@
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\bin\Debug\testingServer.exe.config
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\bin\Debug\testingServer.exe
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\bin\Debug\testingServer.pdb
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\obj\Debug\testingServer.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\obj\Debug\testingServer.Form1.resources
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\obj\Debug\testingServer.Properties.Resources.resources
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\obj\Debug\testingServer.csproj.GenerateResource.cache
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\obj\Debug\testingServer.exe
+C:\Users\AhmeD-Magdy\source\repos\testClienting\testingServer\obj\Debug\testingServer.pdb
